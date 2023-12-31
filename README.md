@@ -1,4 +1,4 @@
-# Parallel-sequence-aligner
+# Parallel Sequence Aligner
 
 ## Contributors
 - Ohad Tal
@@ -25,10 +25,8 @@ This project implements a parallel computation approach using MPI to distribute 
 - Clean with `make clean`.
 
 ## Performance
-The parallel implementation significantly optimizes execution times, as evidenced by the comparison with non-parallel execution.
+The parallel implementation shows a substantial reduction in execution times compared to the non-parallel version.
 
-### Parallel Execution Times:
-- Ranging from approximately 4.86 to 6.48 seconds.
-
-### Non-Parallel Execution Times:
-- Consistently around 5.59 to 5.64 seconds.
+### Average Execution Times:
+- Parallel: Approximately 5.15 seconds.
+- Non-Parallel: Approximately 5.63 seconds.
