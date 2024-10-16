@@ -20,7 +20,7 @@ This project implements a parallel computation approach using MPI to distribute 
 - `sequences`: An array containing the main and input file sequences.
 
 ## Usage
-- Compile with `make`.
+- Compile with `make`. 
 - Execute with `make run` (utilizes 'input.txt').
 - Clean with `make clean`.
 
