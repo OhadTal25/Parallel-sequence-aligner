@@ -1,7 +1,7 @@
 # Parallel Sequence Aligner
 
 ## Contributors
-- Ohad Tal 
+- Ohad Tal  
 - Michael Hohashvili
 
 ## Algorithm and Data Structures 
