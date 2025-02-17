@@ -4,7 +4,7 @@
 - Ohad Tal 
 - Michael Hohashvili
 
-## Algorithm and Data Structures
+## Algorithm and Data Structures 
 
 ### Algorithm:
 This project implements a parallel computation approach using MPI to distribute sequences for alignment scoring with OpenMP optimization. It involves:
