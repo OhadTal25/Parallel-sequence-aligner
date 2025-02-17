@@ -1,5 +1,5 @@
 # Parallel Sequence Aligner
-
+ 
 ## Contributors
 - Ohad Tal  
 - Michael Hohashvili
