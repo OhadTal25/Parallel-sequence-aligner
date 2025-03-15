@@ -6,7 +6,7 @@
 
 ## Algorithm and Data Structures 
 
-### Algorithm:
+### Algorithm: 
 This project implements a parallel computation approach using MPI to distribute sequences for alignment scoring with OpenMP optimization. It involves:
 - Reading sequences from an input file.
 - Distributing sequences among MPI processes.
